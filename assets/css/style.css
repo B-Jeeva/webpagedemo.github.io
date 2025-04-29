@@ -467,7 +467,7 @@ html,body{height: 100%;}
 --------------------------------------*/
 /* .contact-banner */
 .contact-banner{
-    background: url(../images/6340.jpg) no-repeat center;
+    background: url(../images/17.avif) no-repeat center;
     background-size: cover;
     padding:95px 0 165px;
 }
@@ -982,12 +982,5 @@ html,body{height: 100%;}
     opacity: 1;
     -webkit-transform: none;
     transform: none
-}
-
-@media (max-width: 860px) {
-    .customSection{
-        margin-top:11% !important;
-    }
-
 }
 
